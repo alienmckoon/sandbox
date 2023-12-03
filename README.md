@@ -1,3 +1,3 @@
 # sandbox
-##sandbox with python  
+## sandbox with python  
 this repo contains projects for training
