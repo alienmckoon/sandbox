@@ -1,5 +1,5 @@
-# sandbox
+# sandbox 
 ## sandbox with python  
-this repo contains projects for training  
+this repo contains projects for training:  
 
-1. implementation of OOP principles
+- implementation of OOP principles
